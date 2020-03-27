@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\універ\навчальна практика\task3\Source.cpp(21,32): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  task3.vcxproj -> C:\універ\навчальна практика\task3\Debug\task3.exe
