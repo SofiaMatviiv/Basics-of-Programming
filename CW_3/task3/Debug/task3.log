@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\універ\CW_3\task3\Source.cpp(9,16): error C2535: 'Pramokytnuk::Pramokytnuk(void)': member function already defined or declared
+C:\універ\CW_3\task3\Source.cpp(8): message : see declaration of 'Pramokytnuk::Pramokytnuk'
+C:\універ\CW_3\task3\Source.cpp(8,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\універ\CW_3\task3\Source.cpp(9,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\універ\CW_3\task3\Source.cpp(17,21): error C2661: 'Pramokytnuk::Pramokytnuk': no overloaded function takes 2 arguments
